@@ -19,9 +19,9 @@ I specialize in:
 
 ### 📬 Reach Me
 
-- 📧 **saharamentor1@gmail.com**
+- 📧 **kariukisamuel8661@gmail.com**
 - 📱 **WhatsApp:** +254 715 682 745
-- 🌍 Instagram: *(coming soon)*
+- 🌍 Instagram: *kim_anika_riuki*
 
 ---
 
