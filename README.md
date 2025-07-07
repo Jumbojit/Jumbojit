@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Samuel Kariuki
 
-<!--
-**Jumbojit/Jumbojit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate tech learner, OS installer, and founder of **Saharan Mentor**.
 
-Here are some ideas to get you started:
+I specialize in:
+- 💻 Operating System Installation (Windows + Linux Dual Boot)
+- 🧠 Software Setup, Driver Fixes, and Bootloader Repair
+- 🐧 Kali Linux, Ubuntu, and other Linux distros
+- 📂 C++ Programming and Code Structuring
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Current Projects
+
+- 🚀 [cpp-study-vault](https://github.com/Jumbojit/cpp-study-vault): My personal learning vault
+- 🌐 Saharan Mentor: Full-stack business website (in progress)
+
+---
+
+### 📬 Reach Me
+
+- 📧 **saharamentor1@gmail.com**
+- 📱 **WhatsApp:** +254 715 682 745
+- 🌍 Instagram: *(coming soon)*
+
+---
+
+> “Start where you are. Use what you have. Do what you can.” — Arthur Ashe
